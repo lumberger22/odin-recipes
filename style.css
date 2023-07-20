@@ -1,0 +1,53 @@
+* {
+    line-height: 1.5;
+}
+
+body {
+    background-color: #EEA47F;
+    color: royalblue;
+}
+
+h1 {
+    font-size: 80px;
+    color: royalblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-h1 {
+    margin-top: 50vh;
+}
+
+.little-space {
+    line-height: .7;
+}
+
+a {
+    text-decoration: none;
+    color: royalblue;
+}
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+hr {
+    border-width: 7px;
+    text-align: center;
+    width: 70vw;
+    border-color: royalblue;
+}
+
+.main-hr {
+    margin-bottom: 40vh;
+}
+
+.main-ul {
+    margin-bottom: 45vh;
+}
